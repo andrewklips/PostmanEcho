@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/wao2fynarwfeguax?svg=true)](https://ci.appveyor.com/project/andrewklips/api-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/34pv0acdduq8q7dk?svg=true)](https://ci.appveyor.com/project/andrewklips/postmanecho)
